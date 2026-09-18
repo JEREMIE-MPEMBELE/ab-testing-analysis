@@ -55,7 +55,7 @@ Exécution avec `statsmodels.api.stats.proportions_ztest` :
 
 1. Cloner ce dépôt :
    ```bash
-   git clone https://github.com/VOTRE_USERNAME/AB-Testing-Analysis.git
+   git clone https://github.com/JEREMIE-MPEMBELE/ab-testing-analysis.git
    ```
 
 2. Installer les packages requis :
